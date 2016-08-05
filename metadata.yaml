@@ -1,0 +1,35 @@
+_repo: The-History-of-Mr.-Polly_7308
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "The History of Mr. Polly is a 1910 comic novel by H. G. Wells.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7308'
+  wikidata: Q2507552
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Life change events -- Fiction'
+- GITenberg
+title: The History of Mr. Polly
+url: http://www.gutenberg.org/ebooks/7308
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27Histoire_de_M._Polly
+- https://pt.wikipedia.org/wiki/The_History_of_Mr._Polly
+- https://pl.wikipedia.org/wiki/Historia_pana_Polly
+- https://en.wikipedia.org/wiki/The_History_of_Mr_Polly
+- https://uk.wikipedia.org/wiki/%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F_%D0%9C%D1%96%D1%81%D1%82%D0%B5%D1%80%D0%B0_%D0%9F%D0%BE%D0%BB%D0%BB%D1%96
+- https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0_%D0%9F%D0%BE%D0%BB%D0%BB%D0%B8
